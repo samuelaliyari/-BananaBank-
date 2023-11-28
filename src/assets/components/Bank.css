@@ -1,0 +1,33 @@
+main {
+    padding: 5% 5%;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #cdcdff;
+}
+
+h2 {
+    color: #cdcdff;
+    margin: 1rem;
+}
+
+main > div {
+    padding: 5%;
+    color: #cdcdff;
+    background-color: #494970a6;
+    border-radius: 1rem;
+    aspect-ratio: 5/2;
+    display: grid;
+    place-items: center;
+    box-shadow: 0 0 6px 5px#6a6a9da6;
+    gap: 1rem;
+}
+main > div p{
+    font-size: 3rem;
+}
+
+
